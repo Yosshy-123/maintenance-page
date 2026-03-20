@@ -9,3 +9,7 @@ npm run build
 ```
 dist
 ```
+
+---
+
+[![Built with Cloudflare](https://workers.cloudflare.com/built-with-cloudflare.svg)](https://cloudflare.com)
